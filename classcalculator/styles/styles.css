@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Sixtyfour&display=swap');
+
+
+body {
+  
+    background-color: #ca6262;
+    font-family: 'Micro 5', sans-serif;
+    background-image: url("./images/deskimg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+    
+    
+}  
+
+
+
+.color{
+    color:rgb(201, 48, 9);
+    font-weight: bold;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+}
+
+.myCard{
+    border: solid 1px rgb(34, 30, 30);
+    padding: 20px;
+    background-color: rgb(65, 66, 66);
+    
+}
+
+.displayArea{
+    background-color:rgb(111, 170, 145);
+    margin: 20px;
+    margin-top: 0;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.btn{
+    padding: 30px;
+    font-size:xx-large;
+
+    display: flex;
+    
+   
+    border-radius: 5rem;
+    
+    align-items: center;
+    border: 2px solid rgb(29, 28, 28);
+}
+
+.btnop{
+    background-color: rgb(71, 163, 71);
+    color: white;
+
+    padding: 30px;
+    font-size:x-large;
+
+    display: flex;
+    
+   
+    border-radius: 5rem;
+    
+    align-items: center;
+    border: 1px solid rgb(29, 28, 28);
+
+}
+
+.micro-5-regular {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+
+ 
